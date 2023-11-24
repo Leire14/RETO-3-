@@ -1,2 +1,3 @@
 # RETO-3-
-Hemos creado un juego del tiempo. El jugador deberá adivinar el tiempo prefijado en la ruleta.
+Hemos creado el juego just time. El jugador deberá adivinar el tiempo prefijado en la ruleta. 
+Para llevar acabo este proyecto hemos usado un FPGA para programar el juego mediante puertas lógicas.
