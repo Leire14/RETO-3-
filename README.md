@@ -5,3 +5,4 @@ pulsador se tendrá que adivinar cuando habrá llegado al tiempo prefijado y se 
 donde se mostrara el tiempo logrado. En caso de haber acertado se encendera un led. Para volver a jugar
 habra que pulsar otro pulsador para reiniciar el juego.
 Para llevar acabo este proyecto hemos usado un FPGA para programar el juego mediante puertas lógicas.
+
