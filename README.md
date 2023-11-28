@@ -1,4 +1,4 @@
-# RETO-3-
+# JUST TIME
 Hemos creado el juego just time. Mediante una ruleta se fijara un tiempo,
 despues se tendrá que pulsar un boton con el que empezara a contage y para acabar, mediante el mismo
 pulsador se tendrá que adivinar cuando habrá llegado al tiempo prefijado y se encenderan los displays 
